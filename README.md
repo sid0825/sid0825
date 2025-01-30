@@ -1,5 +1,6 @@
 # 👋 Hello I'm Siddhesh Sawant
-Hi there! 👋 I'm a passionate Software Engineer with hands-on experience in building scalable applications and optimizing web solutions. Currently, I'm pursuing my **Master of Science in Information Systems** at **Northeastern University**, where I'm expanding my knowledge and refining my skills in full-stack development, cloud computing, and system design.
+I am a passionate software engineer currently pursuing a Master of Science in Information Systems at Northeastern University, Boston. I have experience in backend development, web applications, and system security, with a strong foundation in Java, JavaScript, TypeScript, and Python.
+My expertise includes working with Spring MVC for backend development, Node.js for scalable server-side applications, React.js for building dynamic user interfaces, and MongoDB for efficient database management. I am particularly interested in developing secure, high-performance applications and continuously exploring new technologies to enhance my skill set.
 
 ## 👨‍💻 Experience Highlights
 - **Tata Consultancy Services**  
