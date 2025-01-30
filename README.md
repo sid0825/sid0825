@@ -1,4 +1,4 @@
-# 💻 About Me
+# 👋 Hello I'm Siddhesh Sawant
 Hi there! 👋 I'm a passionate Software Engineer with hands-on experience in building scalable applications and optimizing web solutions. Currently, I'm pursuing my **Master of Science in Information Systems** at **Northeastern University**, where I'm expanding my knowledge and refining my skills in full-stack development, cloud computing, and system design.
 
 ## 👨‍💻 Experience Highlights
