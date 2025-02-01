@@ -47,5 +47,3 @@ By combining technical expertise with strategic thinking and leadership, I striv
 - **Email**: sawant.sidd@northeastern.edu
 
 I bring integrity, collaboration, and fun to diverse teams, all while staying current in the Business IT domain. My drive, passion for creativity, and innovative mindset empower me to deliver quality work and impactful results consistently.
-
-I'm always eager to connect with motivated, hard-working, and talented professionals. Feel free to contact me at sawant.sidd@northeastern.edu or send a connection request!
