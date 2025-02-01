@@ -7,11 +7,7 @@ During my time at TCS, I contributed to Loan Origination Systems (LOS) for the S
 
 I am passionate about building secure, high-performance applications, exploring emerging technologies, and delivering innovative solutions that align with business objectives. I thrive on solving complex challenges, fostering strong professional relationships, and continuously learning to stay ahead in the ever-evolving tech landscape. 🚀
 
-## 👨‍💻 Experience Highlights
-- **Tata Consultancy Services**  
-  - **REST API Development**: Spearheaded the development of RESTful APIs for loan authorization using **AES** and **RSA encryption**, ensuring robust and secure solutions.  
-  - **Loan Origination System**: Led the creation of a system to streamline processes for agricultural clients, significantly improving efficiency.  
-  - Built efficient and scalable codebases using **Java**, **Spring**, and **MySQL**.
+I'm always eager to connect with motivated, hard-working, and talented professionals. Feel free to reach out to me at sawant.sidd@northeastern.edu or send a connection request!
 
 ## 🔧 Technologies & Tools
 - **Languages**: Java, Python, JavaScript  
