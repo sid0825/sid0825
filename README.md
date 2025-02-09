@@ -16,8 +16,6 @@ I'm always eager to connect with motivated, hard-working, and talented professio
 - **Databases**: MySQL, MongoDB  
 - **Cloud & DevOps**: AWS, Docker, Git
 
-- https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only
-
 ## 🌟 What Drives Me
 I thrive on solving real-world problems and contributing to impactful projects in collaborative environments. I am especially passionate about:  
 - Full-stack development
