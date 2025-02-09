@@ -9,7 +9,7 @@ I am passionate about building secure, high-performance applications, exploring 
 
 I'm always eager to connect with motivated, hard-working, and talented professionals. Feel free to reach out to me at sawant.sidd@northeastern.edu or send a connection request!
 
-## 🔧 Technologies & Tools
+## 💻 Technologies & Tools
 - **Languages**: Java, Python, JavaScript  
 - **Frontend**: React.js, HTML, CSS  
 - **Backend**: Node.js, Express.js, REST APIs  
