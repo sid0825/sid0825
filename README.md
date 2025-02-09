@@ -46,6 +46,8 @@ By combining technical expertise with strategic thinking and leadership, I striv
 - **GitHub**: https://github.com/sid0825
 - **Email**: sawant.sidd@northeastern.edu
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sid0825)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sid0825)](https://github.com/anuraghazra/github-readme-stats)
