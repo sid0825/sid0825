@@ -48,4 +48,6 @@ By combining technical expertise with strategic thinking and leadership, I striv
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sid0825)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sid0825)](https://github.com/anuraghazra/github-readme-stats)
+
 I bring integrity, collaboration, and fun to diverse teams, all while staying current in the Business IT domain. My drive, passion for creativity, and innovative mindset empower me to deliver quality work and impactful results consistently.
