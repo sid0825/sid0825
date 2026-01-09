@@ -10,11 +10,12 @@ I am passionate about building secure, high-performance applications, exploring 
 I'm always eager to connect with motivated, hard-working, and talented professionals. Feel free to reach out to me at sawant.sidd@northeastern.edu or send a connection request!
 
 ## 💻 Technologies & Tools
-- **Languages**: Java, Python, JavaScript  
-- **Frontend**: React.js, HTML, CSS  
-- **Backend**: Node.js, Express.js, REST APIs  
-- **Databases**: MySQL, MongoDB  
-- **Cloud & DevOps**: AWS, Docker, Git
+- **Programming Languages**: Java, Python, C++, JavaScript, TypeScript, HTML, CSS
+- **Frameworks**: Spring Boot, JDBC, Express, Node.js, React 
+- **Database**: MySQL, MS SQL Server, PostgreSQL, MongoDB (NoSQL)  
+- **Developer Tools**: Postman, Eclipse IDE, Visual Studio Code, NetBeans, SVN, Oracle SQL Developer  
+- **Cloud**: AWS (EC2, S3, VPC, CloudWatch, ELB), GCP
+- **Tools**: Git, Terraform, Packer, Docker, GitHub Actions
 
 ## 🌟 What Drives Me
 I thrive on solving real-world problems and contributing to impactful projects in collaborative environments. I am especially passionate about:  
